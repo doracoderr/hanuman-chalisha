@@ -1,0 +1,22 @@
+.head{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    font-size: 35px;
+    color: red;
+    font-weight: bolder;
+    font-style:inherit;
+}
+#sub{
+    text-align: center;
+    font-size: 15px;
+    font-family:sans-serif;
+    
+}
+#doha{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: wavy;
+    text-decoration: underline;
+    font-size: 20px;
+}
